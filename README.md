@@ -1,7 +1,7 @@
 # Selenium-Tests
 1. Clone the repository:
 ```bash
-git clone https://github.com/GaurangKhandelwal/Selenium Tests.git
+git clone https://github.com/GaurangKhandelwal/Selenium-Tests.git
 cd sSelenium Tests
 ```
 
